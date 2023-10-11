@@ -7,7 +7,7 @@
 
 4. In the terminal run "php artisan migrate"
 
-5 you can then run "php artisan serve"
+5. you can then run "php artisan serve"
 
 6. Your api should be running on http://localhost:8000
 
