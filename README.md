@@ -1,4 +1,4 @@
-# laravel-RESTFUL-API-JWT-auth
+# LARAVEL-RESTFUL-API-JWT-auth
 1. Laravel API using JWT token for authentication(Login, Register and Logout)
 
 2. To Run start by creating a database called laravel-jwt-auth in mysql or maria db 
